@@ -11,6 +11,9 @@ public class Student {
 		System.out.println("hello akshay");
 		System.out.println("hey Ap");
 		System.err.println("error");
+		System.err.println();
+		System.err.println();
+
 	}
 
 }
