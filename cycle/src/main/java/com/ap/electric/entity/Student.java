@@ -9,6 +9,7 @@ public class Student {
 	
 	public static void main(String[] args) {
 		System.out.println("hello akshay");
+		System.out.println("hey ap");
 	}
 
 }
