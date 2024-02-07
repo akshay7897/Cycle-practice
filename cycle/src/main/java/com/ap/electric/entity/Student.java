@@ -14,5 +14,23 @@ public class Student {
 		// hi
 
 	}
+	
+	
+	public void ajayKhula() {
+		
+		// adfjklaxflkjdz;
+		//jhsdkl;fjgl'
+		
+	}
+	
+	public void vaibhav() {
+		
+	}
+	
+	public void akshay() {
+		
+		//
+		
+	}
 
 }
