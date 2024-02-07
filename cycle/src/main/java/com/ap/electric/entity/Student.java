@@ -21,5 +21,11 @@ public class Student {
 		
 		//
 	}
+	
+	public void akshay() {
+		
+		//
+		
+	}
 
 }
