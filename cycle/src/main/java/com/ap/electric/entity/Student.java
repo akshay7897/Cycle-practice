@@ -17,6 +17,10 @@ public class Student {
 		//s
 	}
 	
+	public void m2() {
+		/// m2 method
+	}
+	
 	
 	
 
