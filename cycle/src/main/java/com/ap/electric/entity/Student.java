@@ -14,5 +14,12 @@ public class Student {
 		// hi
 
 	}
+	
+	
+	public void ajayKhula() {
+		
+		
+		//
+	}
 
 }
