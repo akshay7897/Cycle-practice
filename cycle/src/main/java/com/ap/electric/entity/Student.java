@@ -18,8 +18,13 @@ public class Student {
 	
 	public void ajayKhula() {
 		
+		// adfjklaxflkjdz;
+		//jhsdkl;fjgl'
 		
-		//
+	}
+	
+	public void vaibhav() {
+		
 	}
 	
 	public void akshay() {
